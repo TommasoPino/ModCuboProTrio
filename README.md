@@ -7,4 +7,4 @@ Notes: In this readme file you will find a sequence of instruction to riproduce 
 
 # Let's start!
 
-1.Reproduce the top cover
+1. Reproduce the top cover
