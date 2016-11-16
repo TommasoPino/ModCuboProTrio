@@ -11,7 +11,11 @@ Notes: In this readme file you will find a sequence of instruction to riproduce 
 
   bla bla bla
   
-  photo
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/TommasoPino/ModCuboProTrio/master/cut_shape.jpeg" width="290"/>
+  <img src="https://raw.githubusercontent.com/TommasoPino/ModCuboProTrio/master/cut_shape_result.jpeg" width="350"/>
+  <img src="https://raw.githubusercontent.com/TommasoPino/ModCuboProTrio/master/cut_shape_comparison.jpeg" width="380"/>
+  </p>
   
   bla bla
 	
