@@ -8,3 +8,13 @@ Notes: In this readme file you will find a sequence of instruction to riproduce 
 # Let's start!
 
 1. Reproduce the top cover
+
+  bla bla bla
+  
+  photo
+  
+  bla bla
+	
+2. Stamp some pieces
+
+  bla bla
