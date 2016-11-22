@@ -1,4 +1,4 @@
-l# ModCuboProTrio
+# ModCuboProTrio
 CubePro modification to use a generic filament
 
 I think like a lot of people that an ABS filament that cost 150$/kg mustn't buy by anyone when the real price is 35$/kg. I modified my CubePro Trio to use a generic filament.
